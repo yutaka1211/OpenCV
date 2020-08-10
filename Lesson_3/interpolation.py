@@ -18,7 +18,7 @@ cv2.imwrite('picture/cubic.png', img_dst2)
 cv2.imwrite('picture/lanczos4.png', img_dst3)
 
 
-#shape[画像の高さ,　画像の横幅]が格納されている
+#shape[画像の高さ,画像の横幅]が格納されている
 #src,nearestとbi,cubic,lanczosはパソコンだと少し鮮明になった
 #逆にsrcとnearestや、bi,cubic,lanczosに大きな違いは見られなかった
 #スマホだとどれも変わらん
